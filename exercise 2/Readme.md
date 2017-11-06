@@ -1,4 +1,4 @@
-## Some instrution
+## Some instrutions
 
 The program can scan all 6 images once and send out results we need.
 
