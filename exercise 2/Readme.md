@@ -1,3 +1,11 @@
+## Some instrution
+
+The program can scan all 6 images once and send out results we need.
+
+## The values of the pixel at (20,25) in the RGB, YCbCr and HSV versions of the image.
+
+They are printed in the program.
+
 ## Ranges of pixel values in each channel of each of the above mentioned colorspaces
 
 Range of value of RGB: 0-255
