@@ -40,7 +40,6 @@ x,y = TemplateMatching(source_img, temp, 10)
 print(x,y)
 match_img = cv2.cvtColor(source_img, cv2.COLOR_GRAY2RGB)
 print(temp.shape)
-print(temp.shape[0])
 
 cv2.line(match_img,(x,y),(x+241,y),(0,0,255),thickness=4)
 cv2.line(match_img,(x,y),(x,y+138),(0,0,255),thickness=4)
